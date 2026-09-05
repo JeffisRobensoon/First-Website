@@ -52,10 +52,12 @@ a {
 
 ul {
   display: flex;
+  list-style: none;
+  padding: 0;
 }
 
 li {
-  list-style-type: non;
+  list-style-type: none;
   padding-left: 16px;
 }
 
@@ -101,9 +103,7 @@ h2 {
   padding: 0 24px;
 }
 
-
 img {
- 
   width: 100%;
 }
 
